@@ -97,7 +97,5 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-ddeploy:
-  type: git
-  repository: https://github.com/tigerLuHai/tigerLuHai.github.io
-  branch: master
+deploy:
+  type: ''
